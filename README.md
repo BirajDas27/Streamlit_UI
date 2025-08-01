@@ -4,3 +4,4 @@ This project provides a user-friendly **Streamlit web interface** to test deep l
 
 ## 📂 Project Structure
 
+![](ss/)
