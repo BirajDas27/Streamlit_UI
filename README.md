@@ -33,3 +33,5 @@ source venv/bin/activate      # On Windows: venv\Scripts\activate
 pip install streamlit tensorflow pillow
 
 streamlit run app2.py
+
+Ctrl+left click on localhost link that will be provided.
