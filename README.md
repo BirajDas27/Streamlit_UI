@@ -50,4 +50,4 @@ Make sure the .keras or .h5 model files are in the root directory.
 
 Only image formats like .jpg, .jpeg, or .png are supported.
 
-Models were trained on augmented histopathological breast cancer data using Keras and TensorFlow.
+Models were trained on augmented cytopathological breast cancer data using Keras and TensorFlow.
