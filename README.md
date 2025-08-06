@@ -35,3 +35,12 @@ pip install streamlit tensorflow pillow
 streamlit run app2.py
 
 Ctrl+left click on localhost link that will be provided.
+
+```
+
+## 📊 Model Evaluation
+| Model	| Accuracy Plot	| Confusion Matrix |
+|----------|-----------------|-----------------|
+| MobileNetV2	| ![](mobileNet-acc.png) | ![](mobileNet-confusion.png) |
+| InceptionV3	| ![](inception-acc.png) | ![](inception-confusion.png) |
+| DenseNet121	| ![](denseNet-acc.png) | ![](denseNet-confusion.png) |
