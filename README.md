@@ -49,7 +49,7 @@ Ctrl+left click on localhost link that will be provided.
 ### 🎯 Model performance
 ![](ss/performance.png)
 
-### 🎯 Input detection
+### 🎯 User input for detection
 ![](ss/prediction.png)
 
 ## 📊 Model Evaluation
