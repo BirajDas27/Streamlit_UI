@@ -40,6 +40,17 @@ Ctrl+left click on localhost link that will be provided.
 
 ## 🧮 Interface
 
+### 🎯 Dashboard
+![](ss/dashboard.png)
+
+### 🎯 Model selection
+![](ss/model.png)
+
+### 🎯 Model performance
+![](ss/performance.png)
+
+### 🎯 Input detection
+![](ss/prediction.png)
 
 ## 📊 Model Evaluation
 | Model	| Accuracy Plot	| Confusion Matrix |
